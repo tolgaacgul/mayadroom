@@ -1,0 +1,41 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  background-color: #f0f0f0;
+  /* Örnek renk, istediğiniz renge değiştirebilirsiniz */
+}
+
+.menu {
+  width: 600px;
+  height: 100px;
+  background-color: #e0e0e0;
+  /* Örnek renk, istediğiniz renge değiştirebilirsiniz */
+}
+
+.user-area {
+  width: 150px;
+  height: 100px;
+  background-color: #d0d0d0;
+  /* Örnek renk, istediğiniz renge değiştirebilirsiniz */
+}
+
+.tlg-input {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: rgba(0, 0, 0, 0.48);
+}
+.tlg-rounde-50{
+  border-radius: 50%;
+}
+.tlg-input:active{
+  border: none;
+  box-shadow: none;
+
+}
+.tlg-shadow{
+  box-shadow: 4px 4px 14px 2px rgba(0,0,0,0.75);
+}
+.yamuk {
+  clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+}
