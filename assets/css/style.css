@@ -39,3 +39,7 @@
 .yamuk {
   clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
 }
+.tlg-tab-menu{
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
