@@ -43,3 +43,24 @@
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
 }
+.tlg {
+  color: black!important;
+}
+.tlg.active {
+  background-color: white!important;
+  color: black!important;
+  font-weight: 600;
+}
+.tlg-text-soluk{
+  color: #818181!important;
+}
+.tlg-text-soluk:hover{
+  color: #3f3f3f!important;
+
+}
+.tlg-boder-s{
+  border-left: 1px solid rgb(25, 25, 25);
+}
+.border-s-5{
+  border-left: 4px solid red;
+}
